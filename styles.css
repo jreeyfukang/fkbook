@@ -1,0 +1,24 @@
+/* FKBook 插件样式 */
+
+.fkbook-container {
+    padding: 20px;
+}
+
+.fkbook-title {
+    font-size: 1.5em;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.fkbook-button {
+    background-color: var(--interactive-accent);
+    color: var(--text-on-accent);
+    border: none;
+    padding: 8px 16px;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.fkbook-button:hover {
+    background-color: var(--interactive-accent-hover);
+}
