@@ -1,0 +1,10 @@
+{
+  "id": "fkbook",
+  "name": "FKBook",
+  "version": "0.0.1",
+  "minAppVersion": "0.15.0",
+  "description": "这是我的 Obsidian FKBook 插件",
+  "author": "jreeyfukang",
+  "authorUrl": "https://github.com/jreeyfukang",
+  "isDesktopOnly": false
+}
